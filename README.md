@@ -1,5 +1,6 @@
 <img width="1024" height="401" alt="image" src="https://github.com/user-attachments/assets/85c1f3eb-7f97-48db-a9c5-b470bc410f55" />
 
+
 Professional with over 6 years of experience in Customer Support and Project Management, specializing in Brazil’s regulatory and consumer-protection ecosystem. I have a proven track record of managing high-stakes interactions with the Central Bank of Brazil (BCB), Consumidor.gov.br, and Reclame Aqui, leading Ombudsman (Ouvidoria) initiatives to drive fair, compliant, and customer-centric resolutions.
 
 Currently, I am bridging the gap between customer advocacy and technology. While pursuing my graduate studies in Database: Analysis, Mining, and Data Engineering at Universidade Presbiteriana Mackenzie, I have achieved key certifications that empower me to transform raw data into strategic insights:
@@ -12,4 +13,12 @@ Python for AI Applications: Skilled in applying Python basics to AI-driven solut
 
 Scala's Fundamentals.
 
+<img width="1024" height="401" alt="image" src="https://github.com/user-attachments/assets/625fee21-5262-4e48-b247-b1d9541629bc" />
+
+
 Certified with FEBRABAN 200, I combine structured problem-solving and root-cause analysis with data engineering principles to elevate service quality, mitigate risks, and foster continuous improvement. My goal is to leverage data insights to build more efficient, transparent, and intelligent customer experiences.
+
+
+<img width="1024" height="401" alt="image" src="https://github.com/user-attachments/assets/466635d4-4e49-4ff2-9ba8-127a8bcf6414" />
+
+find me on: https://www.linkedin.com/in/antonio-tavares-7951061b2/
